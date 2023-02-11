@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	useFullscreenExpand="true"
+	galleryTitle="Cocinas"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/DSC02017.JPG"
+	thumbURL="thumbs/DSC02017.JPG"
+	linkURL="images/DSC02017.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02017.JPG">
+    <title><![CDATA[1]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02009.JPG"
+	thumbURL="thumbs/DSC02009.JPG"
+	linkURL="images/DSC02009.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02009.JPG">
+    <title><![CDATA[2]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02010.JPG"
+	thumbURL="thumbs/DSC02010.JPG"
+	linkURL="images/DSC02010.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02010.JPG">
+    <title><![CDATA[3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02011.JPG"
+	thumbURL="thumbs/DSC02011.JPG"
+	linkURL="images/DSC02011.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02011.JPG">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02014.JPG"
+	thumbURL="thumbs/DSC02014.JPG"
+	linkURL="images/DSC02014.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02014.JPG">
+    <title><![CDATA[5]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02015.JPG"
+	thumbURL="thumbs/DSC02015.JPG"
+	linkURL="images/DSC02015.JPG"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC02015.JPG">
+    <title><![CDATA[6]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/FOTOS MOVIL 492.jpg"
+	thumbURL="thumbs/FOTOS MOVIL 492.jpg"
+	linkURL="images/FOTOS MOVIL 492.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\FOTOS MOVIL 492.jpg">
+    <title><![CDATA[7]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0578.jpg"
+	thumbURL="thumbs/DSC_0578.jpg"
+	linkURL="images/DSC_0578.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC_0578.jpg">
+    <title><![CDATA[8]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0581.jpg"
+	thumbURL="thumbs/DSC_0581.jpg"
+	linkURL="images/DSC_0581.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC_0581.jpg">
+    <title><![CDATA[9]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0585.jpg"
+	thumbURL="thumbs/DSC_0585.jpg"
+	linkURL="images/DSC_0585.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC_0585.jpg">
+    <title><![CDATA[10]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC_0586.jpg"
+	thumbURL="thumbs/DSC_0586.jpg"
+	linkURL="images/DSC_0586.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\DSC_0586.jpg">
+    <title><![CDATA[11]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20141218_092230.jpg"
+	thumbURL="thumbs/20141218_092230.jpg"
+	linkURL="images/20141218_092230.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20141218_092230.jpg">
+    <title><![CDATA[12]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150211_111334.jpg"
+	thumbURL="thumbs/20150211_111334.jpg"
+	linkURL="images/20150211_111334.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150211_111334.jpg">
+    <title><![CDATA[13]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150211_111342.jpg"
+	thumbURL="thumbs/20150211_111342.jpg"
+	linkURL="images/20150211_111342.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150211_111342.jpg">
+    <title><![CDATA[14]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171416.jpg"
+	thumbURL="thumbs/20150217_171416.jpg"
+	linkURL="images/20150217_171416.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171416.jpg">
+    <title><![CDATA[15]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171232.jpg"
+	thumbURL="thumbs/20150217_171232.jpg"
+	linkURL="images/20150217_171232.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171232.jpg">
+    <title><![CDATA[16]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171250.jpg"
+	thumbURL="thumbs/20150217_171250.jpg"
+	linkURL="images/20150217_171250.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171250.jpg">
+    <title><![CDATA[17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171258.jpg"
+	thumbURL="thumbs/20150217_171258.jpg"
+	linkURL="images/20150217_171258.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171258.jpg">
+    <title><![CDATA[18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171305.jpg"
+	thumbURL="thumbs/20150217_171305.jpg"
+	linkURL="images/20150217_171305.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171305.jpg">
+    <title><![CDATA[19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150217_171333.jpg"
+	thumbURL="thumbs/20150217_171333.jpg"
+	linkURL="images/20150217_171333.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20150217_171333.jpg">
+    <title><![CDATA[20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180214_191112.jpg"
+	thumbURL="thumbs/20180214_191112.jpg"
+	linkURL="images/20180214_191112.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20180214_191112.jpg">
+    <title><![CDATA[21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180214_191116.jpg"
+	thumbURL="thumbs/20180214_191116.jpg"
+	linkURL="images/20180214_191116.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20180214_191116.jpg">
+    <title><![CDATA[22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20180318-WA0001.jpg"
+	thumbURL="thumbs/IMG-20180318-WA0001.jpg"
+	linkURL="images/IMG-20180318-WA0001.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\IMG-20180318-WA0001.jpg">
+    <title><![CDATA[23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20180318-WA0002.jpg"
+	thumbURL="thumbs/IMG-20180318-WA0002.jpg"
+	linkURL="images/IMG-20180318-WA0002.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\IMG-20180318-WA0002.jpg">
+    <title><![CDATA[24]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20180318-WA0005.jpg"
+	thumbURL="thumbs/IMG-20180318-WA0005.jpg"
+	linkURL="images/IMG-20180318-WA0005.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\IMG-20180318-WA0005.jpg">
+    <title><![CDATA[25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125141.jpg"
+	thumbURL="thumbs/20170623_125141.jpg"
+	linkURL="images/20170623_125141.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125141.jpg">
+    <title><![CDATA[26]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125207.jpg"
+	thumbURL="thumbs/20170623_125207.jpg"
+	linkURL="images/20170623_125207.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125207.jpg">
+    <title><![CDATA[27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125303.jpg"
+	thumbURL="thumbs/20170623_125303.jpg"
+	linkURL="images/20170623_125303.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125303.jpg">
+    <title><![CDATA[28]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125318.jpg"
+	thumbURL="thumbs/20170623_125318.jpg"
+	linkURL="images/20170623_125318.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125318.jpg">
+    <title><![CDATA[29]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125428.jpg"
+	thumbURL="thumbs/20170623_125428.jpg"
+	linkURL="images/20170623_125428.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125428.jpg">
+    <title><![CDATA[30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170623_125444.jpg"
+	thumbURL="thumbs/20170623_125444.jpg"
+	linkURL="images/20170623_125444.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20170623_125444.jpg">
+    <title><![CDATA[31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160602_084537.jpg"
+	thumbURL="thumbs/20160602_084537.jpg"
+	linkURL="images/20160602_084537.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20160602_084537.jpg">
+    <title><![CDATA[32]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160602_084550.jpg"
+	thumbURL="thumbs/20160602_084550.jpg"
+	linkURL="images/20160602_084550.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20160602_084550.jpg">
+    <title><![CDATA[33]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160610_114611.jpg"
+	thumbURL="thumbs/20160610_114611.jpg"
+	linkURL="images/20160610_114611.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20160610_114611.jpg">
+    <title><![CDATA[34]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20160610_124025.jpg"
+	thumbURL="thumbs/20160610_124025.jpg"
+	linkURL="images/20160610_124025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20160610_124025.jpg">
+    <title><![CDATA[35]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200521_115055.jpg"
+	thumbURL="thumbs/20200521_115055.jpg"
+	linkURL="images/20200521_115055.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20200521_115055.jpg">
+    <title><![CDATA[36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200521_115103.jpg"
+	thumbURL="thumbs/20200521_115103.jpg"
+	linkURL="images/20200521_115103.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20200521_115103.jpg">
+    <title><![CDATA[37]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200521_115139.jpg"
+	thumbURL="thumbs/20200521_115139.jpg"
+	linkURL="images/20200521_115139.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20200521_115139.jpg">
+    <title><![CDATA[38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20201127_103956.jpg"
+	thumbURL="thumbs/20201127_103956.jpg"
+	linkURL="images/20201127_103956.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20201127_103956.jpg">
+    <title><![CDATA[39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210311_164753.jpg"
+	thumbURL="thumbs/20210311_164753.jpg"
+	linkURL="images/20210311_164753.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20210311_164753.jpg">
+    <title><![CDATA[40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210311_164812.jpg"
+	thumbURL="thumbs/20210311_164812.jpg"
+	linkURL="images/20210311_164812.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20210311_164812.jpg">
+    <title><![CDATA[41]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210528_155848.jpg"
+	thumbURL="thumbs/20210528_155848.jpg"
+	linkURL="images/20210528_155848.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20210528_155848.jpg">
+    <title><![CDATA[42]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210811_135224.jpg"
+	thumbURL="thumbs/20210811_135224.jpg"
+	linkURL="images/20210811_135224.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Cocinas\images\20210811_135224.jpg">
+    <title><![CDATA[43]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20220408_161328.jpg"
+	thumbURL="thumbs/20220408_161328.jpg"
+	linkURL="images/20220408_161328.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20220408_161328.jpg">
+    <title><![CDATA[44]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20230111_084235.jpg"
+	thumbURL="thumbs/20230111_084235.jpg"
+	linkURL="images/20230111_084235.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230111_084235.jpg">
+    <title><![CDATA[45]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20230111_084320.jpg"
+	thumbURL="thumbs/20230111_084320.jpg"
+	linkURL="images/20230111_084320.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230111_084320.jpg">
+    <title><![CDATA[46]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>

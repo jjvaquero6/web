@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<juiceboxgallery 
+
+	galleryTitle="Armarios"
+	useFullscreenExpand="true"
+	useFlickr="false"
+	resizeOnImport="true"
+	cropToFit="false"
+
+>
+  <image imageURL="images/fotos movil 101.jpg"
+	thumbURL="thumbs/fotos movil 101.jpg"
+	linkURL="images/fotos movil 101.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\fotos movil 101.jpg">
+    <title><![CDATA[1  Mobiliario dormitorio, lacado blanco]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fotos movil 098.jpg"
+	thumbURL="thumbs/fotos movil 098.jpg"
+	linkURL="images/fotos movil 098.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\fotos movil 098.jpg">
+    <title><![CDATA[2    Armario dormitorio  puertas abatibles, lacado blanco]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fotos movil 099.jpg"
+	thumbURL="thumbs/fotos movil 099.jpg"
+	linkURL="images/fotos movil 099.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\fotos movil 099.jpg">
+    <title><![CDATA[3]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/fotos movil 100.jpg"
+	thumbURL="thumbs/fotos movil 100.jpg"
+	linkURL="images/fotos movil 100.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\fotos movil 100.jpg">
+    <title><![CDATA[4]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Imagen 235.jpg"
+	thumbURL="thumbs/Imagen 235.jpg"
+	linkURL="images/Imagen 235.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\Imagen 235.jpg">
+    <title><![CDATA[5      Armario mueble color madera]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/Imagen 234.jpg"
+	thumbURL="thumbs/Imagen 234.jpg"
+	linkURL="images/Imagen 234.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\Imagen 234.jpg">
+    <title><![CDATA[6         Imagen 234]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02401.jpg"
+	thumbURL="thumbs/DSC02401.jpg"
+	linkURL="images/DSC02401.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\DSC02401.jpg">
+    <title><![CDATA[7    Armario abatible, altillos techo inclinado color madera]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/DSC02403.jpg"
+	thumbURL="thumbs/DSC02403.jpg"
+	linkURL="images/DSC02403.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\DSC02403.jpg">
+    <title><![CDATA[8           Interior armario abatible, altillos techo inclinado color madera]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20141029_164004.jpg"
+	thumbURL="thumbs/20141029_164004.jpg"
+	linkURL="images/20141029_164004.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20141029_164004.jpg">
+    <title><![CDATA[9              Armario empotrado con puertas corredera, color blanco]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20141030_162306.jpg"
+	thumbURL="thumbs/20141030_162306.jpg"
+	linkURL="images/20141030_162306.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20141030_162306.jpg">
+    <title><![CDATA[10            Frente de armario con puertas abatibles en color madera, para exterior]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20141114_171249.jpg"
+	thumbURL="thumbs/20141114_171249.jpg"
+	linkURL="images/20141114_171249.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20141114_171249.jpg">
+    <title><![CDATA[11            Interior de armario a medida con tablero de diseño]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150205_101251.jpg"
+	thumbURL="thumbs/20150205_101251.jpg"
+	linkURL="images/20150205_101251.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20150205_101251.jpg">
+    <title><![CDATA[12              Armario empotrado, puertas abatibles]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150205_091615.jpg"
+	thumbURL="thumbs/20150205_091615.jpg"
+	linkURL="images/20150205_091615.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20150205_091615.jpg">
+    <title><![CDATA[13            Armario empotrado, puertas correderas]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20150205_101422.jpg"
+	thumbURL="thumbs/20150205_101422.jpg"
+	linkURL="images/20150205_101422.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20150205_101422.jpg">
+    <title><![CDATA[14               Armario empotrado , pueras correderas y cristal]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_105103.jpg"
+	thumbURL="thumbs/20161110_105103.jpg"
+	linkURL="images/20161110_105103.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_105103.jpg">
+    <title><![CDATA[15         ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_105145.jpg"
+	thumbURL="thumbs/20161110_105145.jpg"
+	linkURL="images/20161110_105145.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_105145.jpg">
+    <title><![CDATA[16      ]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_105239.jpg"
+	thumbURL="thumbs/20161110_105239.jpg"
+	linkURL="images/20161110_105239.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_105239.jpg">
+    <title><![CDATA[17]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_105330.jpg"
+	thumbURL="thumbs/20161110_105330.jpg"
+	linkURL="images/20161110_105330.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_105330.jpg">
+    <title><![CDATA[18]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_105349.jpg"
+	thumbURL="thumbs/20161110_105349.jpg"
+	linkURL="images/20161110_105349.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_105349.jpg">
+    <title><![CDATA[19]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20161110_191540.jpg"
+	thumbURL="thumbs/20161110_191540.jpg"
+	linkURL="images/20161110_191540.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20161110_191540.jpg">
+    <title><![CDATA[20]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170404_184618.jpg"
+	thumbURL="thumbs/20170404_184618.jpg"
+	linkURL="images/20170404_184618.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20170404_184618.jpg">
+    <title><![CDATA[21]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170420_195348.jpg"
+	thumbURL="thumbs/20170420_195348.jpg"
+	linkURL="images/20170420_195348.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20170420_195348.jpg">
+    <title><![CDATA[22]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20170523_175544.jpg"
+	thumbURL="thumbs/20170523_175544.jpg"
+	linkURL="images/20170523_175544.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20170523_175544.jpg">
+    <title><![CDATA[23]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180427_191141.jpg"
+	thumbURL="thumbs/20180427_191141.jpg"
+	linkURL="images/20180427_191141.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20180427_191141.jpg">
+    <title><![CDATA[24]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180427_191230.jpg"
+	thumbURL="thumbs/20180427_191230.jpg"
+	linkURL="images/20180427_191230.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20180427_191230.jpg">
+    <title><![CDATA[25]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180627_183933.jpg"
+	thumbURL="thumbs/20180627_183933.jpg"
+	linkURL="images/20180627_183933.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20180627_183933.jpg">
+    <title><![CDATA[26]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180627_183946.jpg"
+	thumbURL="thumbs/20180627_183946.jpg"
+	linkURL="images/20180627_183946.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20180627_183946.jpg">
+    <title><![CDATA[27]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20180627_183958.jpg"
+	thumbURL="thumbs/20180627_183958.jpg"
+	linkURL="images/20180627_183958.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20180627_183958.jpg">
+    <title><![CDATA[28]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/IMG-20180318-WA0000.jpg"
+	thumbURL="thumbs/IMG-20180318-WA0000.jpg"
+	linkURL="images/IMG-20180318-WA0000.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\IMG-20180318-WA0000.jpg">
+    <title><![CDATA[29]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20190821_085415.jpg"
+	thumbURL="thumbs/20190821_085415.jpg"
+	linkURL="images/20190821_085415.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20190821_085415.jpg">
+    <title><![CDATA[30]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20190821_085450.jpg"
+	thumbURL="thumbs/20190821_085450.jpg"
+	linkURL="images/20190821_085450.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20190821_085450.jpg">
+    <title><![CDATA[31]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200623_091438.jpg"
+	thumbURL="thumbs/20200623_091438.jpg"
+	linkURL="images/20200623_091438.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20200623_091438.jpg">
+    <title><![CDATA[32 Armario roble, 3 puertas corredera y libreria]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200623_091458.jpg"
+	thumbURL="thumbs/20200623_091458.jpg"
+	linkURL="images/20200623_091458.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20200623_091458.jpg">
+    <title><![CDATA[33     Armario roble, 3 puertas corredera y libreria]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20200623_091515.jpg"
+	thumbURL="thumbs/20200623_091515.jpg"
+	linkURL="images/20200623_091515.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20200623_091515.jpg">
+    <title><![CDATA[34            Armario roble, 3 puertas corredera y libreria]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20201026_155435.jpg"
+	thumbURL="thumbs/20201026_155435.jpg"
+	linkURL="images/20201026_155435.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20201026_155435.jpg">
+    <title><![CDATA[35]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20201026_155544.jpg"
+	thumbURL="thumbs/20201026_155544.jpg"
+	linkURL="images/20201026_155544.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20201026_155544.jpg">
+    <title><![CDATA[36]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20201026_155616.jpg"
+	thumbURL="thumbs/20201026_155616.jpg"
+	linkURL="images/20201026_155616.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20201026_155616.jpg">
+    <title><![CDATA[37]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210224_115006.jpg"
+	thumbURL="thumbs/20210224_115006.jpg"
+	linkURL="images/20210224_115006.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20210224_115006.jpg">
+    <title><![CDATA[38]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210224_115036.jpg"
+	thumbURL="thumbs/20210224_115036.jpg"
+	linkURL="images/20210224_115036.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20210224_115036.jpg">
+    <title><![CDATA[39]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20210224_115048.jpg"
+	thumbURL="thumbs/20210224_115048.jpg"
+	linkURL="images/20210224_115048.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\Armarios\images\20210224_115048.jpg">
+    <title><![CDATA[40]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20220221_122025.jpg"
+	thumbURL="thumbs/20220221_122025.jpg"
+	linkURL="images/20220221_122025.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR armarios\20220221_122025.jpg">
+    <title><![CDATA[41]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20220221_122055.jpg"
+	thumbURL="thumbs/20220221_122055.jpg"
+	linkURL="images/20220221_122055.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR armarios\20220221_122055.jpg">
+    <title><![CDATA[42]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20220810_132659.jpg"
+	thumbURL="thumbs/20220810_132659.jpg"
+	linkURL="images/20220810_132659.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR armarios\20220810_132659.jpg">
+    <title><![CDATA[43]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+</juiceboxgallery>
