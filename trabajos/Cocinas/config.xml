@@ -357,7 +357,7 @@
 	thumbURL="thumbs/20220408_161328.jpg"
 	linkURL="images/20220408_161328.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20220408_161328.jpg">
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\web\trabajos\Cocinas\images\20220408_161328.jpg">
     <title><![CDATA[44]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -365,7 +365,7 @@
 	thumbURL="thumbs/20230111_084235.jpg"
 	linkURL="images/20230111_084235.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230111_084235.jpg">
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\web\trabajos\Cocinas\images\20230111_084235.jpg">
     <title><![CDATA[45]]></title>
     <caption><![CDATA[]]></caption>
   </image>
@@ -373,8 +373,24 @@
 	thumbURL="thumbs/20230111_084320.jpg"
 	linkURL="images/20230111_084320.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230111_084320.jpg">
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\web\trabajos\Cocinas\images\20230111_084320.jpg">
     <title><![CDATA[46]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20230519_115302.jpg"
+	thumbURL="thumbs/20230519_115302.jpg"
+	linkURL="images/20230519_115302.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230519_115302.jpg">
+    <title><![CDATA[47]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20230519_115339.jpg"
+	thumbURL="thumbs/20230519_115339.jpg"
+	linkURL="images/20230519_115339.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR cocinas\20230519_115339.jpg">
+    <title><![CDATA[48]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
