@@ -270,8 +270,16 @@
 	thumbURL="thumbs/20220810_134908.jpg"
 	linkURL="images/20220810_134908.jpg"
 	linkTarget="_blank"
-	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR puertas de calle\20220810_134908.jpg">
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\web\trabajos\PuertasCalle\images\20220810_134908.jpg">
     <title><![CDATA[33]]></title>
+    <caption><![CDATA[]]></caption>
+  </image>
+  <image imageURL="images/20230317_131252.jpg"
+	thumbURL="thumbs/20230317_131252.jpg"
+	linkURL="images/20230317_131252.jpg"
+	linkTarget="_blank"
+	sourcePath="C:\Users\Jomi\Desktop\Jose\JOSE\TRABAJO\pagina web\Pagina web\SUBIR puertas de calle\20230317_131252.jpg">
+    <title><![CDATA[34]]></title>
     <caption><![CDATA[]]></caption>
   </image>
 </juiceboxgallery>
